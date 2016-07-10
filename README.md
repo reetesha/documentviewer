@@ -1,4 +1,4 @@
-# documentviewer
+# DocumentViewer
 DocumentViewer App
 
 #Steps to run app:
@@ -11,7 +11,7 @@ Step 3: node app.js
 Step 4: Open browser and hit URL :http://localhost:7000/
 
 
-Assumption :
+#Assumption :
 This app is build on following assumption:
 
 1) I have given the name of this app as DocumentViewer and currentl supported document type is email. However this app can be extended to any type of documents.
@@ -26,7 +26,7 @@ This app is build on following assumption:
 5) Document content will be shown in modal window(Popup)
 
 
-Enhancement :
+#Enhancement :
 1) Athentication and autherization. Currently there's authentication/Autherization
 2) Multiple document support. Currently it support only email based documents
 3) Monitoring and instrutmentaion : Logging from client and server api using logging framework and RUM
@@ -39,7 +39,7 @@ Server(Rest API):
 1) Add swagger documents for rest api.
 2) Multiple document support.
 
-Architecture daigram :
+#Architecture daigram :
 <img src="https://raw.githubusercontent.com/reetesha/documentviewer/master/documentviewer_Architecture_daigram.png" alt="Smiley face" height="400">
 
 This app is divided into 2 project Client(UI) and server(Rest API). Both of this is project created in GIT repo and server by NodeJS server
@@ -51,16 +51,17 @@ Front End Tech Stack Used (Client project):
 4- NodeJS to host the app and development of Rest APIs
 5- Jasmine for Unit Test cases.
 
-Bookmark 
+#Bookmark 
 In Document Viewer app , particular tag and docuement can be access directly using below URLS- 
 http://localhost:7000/#tag/{tagid}/document/{documentid}
 
 1- Bookmark URL to get particular tag documents list - http://localhost:7000/#tag/1001
 2- Bookmark URL to get particular document - http://localhost:7000/#tag/1001/document/100001
 
-Rest API(server project) :  All interaction in UI is happeining using Rest API.
+#Rest API(server project)
 
-Below are the assumption :
+All interaction in UI is happeining using Rest API. Below are the assumption :
+
 1) HATEOAS(Hypermedia as the Engine of Application State), hypertext links should be used to create a better navigation through the API.
 2) Used plural nouns, used sub-resources for relations, Given Version to API and used HTTP status codes (sucess and error)
 3) Mock the JSON data and created Rest API in JavaScript and deployed into NodeJS server
@@ -74,7 +75,7 @@ There are 3 below GET HTTP API calls created to build the apii :
 3- get documents by tag name and document:id http://localhost:7000/v1/api/tags/{id}/documents/{documentid}
 
 
-*************************************** Problem Statement *************************************
+#Problem Statement
 The objective of this project is to build a web based single-page-application user-interface to display documents organized by tags in folder like structure. Assume document is an email message for purpose of building the demo.
 
 ** Background
@@ -100,6 +101,4 @@ Build an user interface with following functionality.
 - Make sure there is enough sample data to demo the full functionality.
 - Please go ahead and make assumptions regarding anything that is not explicitly mentioned. Be sure to conspicuously bring out and state such assumptions
 - Do consider code hygiene and technical excellence aspects. Unit tests and their quality will carry weightage
-
-
 *************************************** End of Problem Statement *************************************
