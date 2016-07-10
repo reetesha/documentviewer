@@ -40,7 +40,7 @@ Server(Rest API):
 2) Multiple document support.
 
 Architecture daigram :
-<img src="https://raw.githubusercontent.com/reetesha/documentviewer/master/documentviewer_Architecture_daigram.png" alt="Smiley face" height="700">
+<img src="https://raw.githubusercontent.com/reetesha/documentviewer/master/documentviewer_Architecture_daigram.png" alt="Smiley face" height="400">
 
 This app is divided into 2 project Client(UI) and server(Rest API). Both of this is project created in GIT repo and server by NodeJS server
 
