@@ -1,0 +1,21 @@
+<!--Right Panle of Document Viewer-->
+<table id="example" class="display" cellspacing="0" width="100%">
+     <thead>
+            <tr>
+                <th align="left">Document</th>
+                <th align="left">Date</th>
+            </tr>
+      </thead>
+      <tbody>
+        <% if (documents.length>0) { 
+           _(documents).each(function(document) { %>
+                <tr data-toggle="modal" data-target="#myModal" class="tablerow" id="<%= document.id%>">
+                  <td id="<%= document.id%>"><%= document.subject%> </td>
+                  <td id="<%= document.id%>"><%= document.date%> </td>
+                </tr>
+            <%});
+         }%>
+      </tbody>
+</table>
+
+ 

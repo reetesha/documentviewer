@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" />
+<html lang="en">
+<head>
+    <title>Single page Interface to view Documents</title>
+	   <link rel="stylesheet" type="text/css" href="css/documentview.css">
+	   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
+<body >
+  <!-- Place Holder Div where documents fill the DOM()-->
+
+  <!-- Place Holder Top Panel Div -->
+  <div class="top-panel"><h3 align="center">Document Viewer App</h3></div>
+
+    <!-- Place Holder for Left Panel Div where all tags wil be display in a folder like structre-->
+  <div id="leftpanel" class="left-panel"></div>
+
+  <!-- Place Holder for Right Panel Div where all documents wil be display in a list-->
+  <div id="rightpanel" class="right-panel"></div>
+
+
+  <!-- Place Holder to show Document content in a modal window -->
+  <div class="container" id="documentContainter"></div>
+    
+    <!-- Only One JS file Included in SPA (Index.html)-->
+  <script data-main="start.js" src="js/vendors/require.js"></script>
+
+</body>
+</html>

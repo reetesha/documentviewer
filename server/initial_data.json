@@ -1,0 +1,398 @@
+[
+    {"id":"1001","tagname":"Unread",
+    "documents":[
+		{
+			"id":"100001",
+            "date":"10/07/2016",
+            "subject":"Session on Resiliency in SBG - Sidharth Ram",
+            "content":"Agenda\n\n9.15 AM - 9.45 AM: Siddharth: Resiliency Overview\n9.45 AM - 10.45 AM: Billy: Patterns for Resiliency \n10:45 AM - 11.00 AM: Break\n11:00 AM - 12 PM: Demos/Tools\n12:00 PM-12:45 PM: Q&A/Open Discussion\n\n\n"
+            ,
+    		"links": [
+     			{
+     				"rel": "self",
+     				"href": "/v1/api/tags/1001/documents/100001"
+    			}
+   			]
+		},
+		{
+			"id":"100002",
+            "date":"06/22/2016",
+            "subject":"We’re #10 in India’s Best Companies to Work For 2016 & #3 in IT Industry! ",
+			"content":"Team,\n \nI’m thrilled to share that we have been ranked #10 in India’s Best Companies to Work For 2016 by the Great Place to Work Institute. An outstanding feat indeed being ranked in India's Top 10 best companies, 3 years in a row – #7 in 2015 & #8 in 2014 – achieved by only 5 other companies thus far! Further, we’re ranked #3 in overall IT industry, up from #4 last year.\n \nCongratulations to each and every one of you for your unwavering commitment to delivering awesome everyday that has led to this proud accomplishment. This award is proof that we are truly doing the best work of our lives and doing it together as One Intuit. It is an ode to all things Intuit that makes it possible – a transparent, people first culture where diversity is celebrated and where we have the freedom to innovate for our customers. \n \nFor over three decades across the world and for 13 years in India, the GPTW Institute has been celebrating organizations where employee trust, pride and camaraderie are valued. This year 791 companies applied to be assessed and over 155,000 employees across India participated in the survey, making it one of the largest workplace survey in corporate India. It is truly remarkable to be recognized among the best-of-the-best companies in India for the 8th year in a row. \n \nWe had an incredible year and as I look back, I could not be more proud of all that we have achieved together as a truly boundary-less team. True to our spirit of winning together, we can attribute this achievement to the magic of our small yet mighty teams, employee communities and networks who come together as One Intuit and whose collective efforts make big wins like this, a reality. As we go all out to attract top talent, we believe this momentous achievement will help us bring the best-of-the-best into the Intuit fold. \n \nThank you team for your passion and commitment to excellence that inspires me everyday and makes me proud to be a part of this great team. Let’s continue, together, on our journey to awesome. Once again, congratulations to each and every one of you and a huge thank you to our families who are the pillars behind our success, do congratulate your families on this amazing accomplishment too.\n \nWhile I could not be present to receive the award this year due to a family event, I am so happy to see a cross functional Intuit India team receive the award – truly reflective of how we work together in a boundary-less environment, always putting Intuit first.\n \nAs we inch closer to a promising FY’17, let us get together and celebrate a truly special year and our #10 rank over a site social next week.\n \nCan’t wait!\n \nVijay\n \nBcc: Intuit India"
+            ,
+    		"links": [
+     			{
+     				"rel": "self",
+     				"href": "/v1/api/tags/1001/documents/100002"
+    			}
+   			]
+		},
+        {
+            "id":"100003",
+            "date":"05/12/2016",
+            "subject":"Checking our Pulse!",
+            "content":"\nHi everyone,\n \nThank you for helping us nurture an open and collaborative environment, which we all can be proud of at Intuit India. Every delightful outcome as a site, has been a result of our collective efforts as a boundary less One Intuit team. And this its because it is our constant endeavor to assess ourselves and continuously improve. Your honest feedback and thoughts at every stage are extremely valuable as it helps determine our progress thus far and will highlight areas of opportunity that we need to address. Our overall participation presently in the Pulse Survey stands at 76%. This is great! It reinforces that we all want to contribute and be a part of our journey to excellence. Thank you to all those who have completed the survey. \n\nIn case you haven’t taken the survey I encourage you to do so by tomorrow May 13.  You would have received an email from IntuitSurvey@Sirota.com,  with a link to complete the Pulse survey. So go ahead and take this quick 5 minute survey. All the responses are confidential, each one is essential for us to make a true assessment. Visit the AES Insight page for more details, or contact HR Connect if you have additional questions. \n\nVijay\n \n\n\nFrom: \"Anand, Vijay SVP IDC\" <vijay_anand@intuit.com>\nDate: Tuesday, May 3, 2016 at 10:26 AM\nSubject: FY’16 Pulse Survey: Help keep Intuit awesome!\n\n Hi everyone,\n \nThe FY’16 Pulse Survey has been launched for all Intuit employees on May 2, 2016. I encourage you to take the survey and share your insights and honest feedback. True to our value of ‘Learning Fast’, the Pulse survey will help us measure and act on what matters most to us, which is our employees. In turn, this will help us continuously learn and deliver awesome for all our other stakeholders too. \n \nThe Pulse Survey is a quick check-in, and should only take a couple of minutes to complete. This year’s Pulse Survey, will gauge Intuit’s progress in engagement, decision making and a variety of other areas. You must have received an email from Sirota, our survey partner with a link to complete the survey. I encourage you to take the survey and share your feedback on how we’re doing in the key areas identified.  The goal of the Pulse is to give us a quick read on our progress responding to employee feedback shared in the FY16 Annual Employee Survey. All responses are confidential. \n\nNote that employees whose start date is April 2, 2016 or later are not eligible to participate in the FY16 Pulse and won’t receive a survey invite from Sirota.\n \nThe survey will be open through Friday, May 13. Visit the AES Insight page for more details, or contact HR Connect if you have additional questions. \n \nDo take part in the Pulse and let’s work together to keep Intuit awesome!\n \nVijay\n \n \n "
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1001/documents/100003"
+                }
+            ]
+        }
+        ,
+        {
+            "id":"100004",
+            "date":"05/12/2016",
+            "subject":"FY’16 Pulse Survey: Help keep Intuit awesome!",
+            "content":"Hi everyone,\n \nThe FY’16 Pulse Survey has been launched for all Intuit employees on May 2, 2016. I encourage you to take the survey and share your insights and honest feedback. True to our value of ‘Learning Fast’, the Pulse survey will help us measure and act on what matters most to us, which is our employees. In turn, this will help us continuously learn and deliver awesome for all our other stakeholders too. \n \nThe Pulse Survey is a quick check-in, and should only take a couple of minutes to complete. This year’s Pulse Survey, will gauge Intuit’s progress in engagement, decision making and a variety of other areas. You must have received an email from Sirota, our survey partner with a link to complete the survey. I encourage you to take the survey and share your feedback on how we’re doing in the key areas identified.  The goal of the Pulse is to give us a quick read on our progress responding to employee feedback shared in the FY16 Annual Employee Survey. All responses are confidential. \n\nNote that employees whose start date is April 2, 2016 or later are not eligible to participate in the FY16 Pulse and won’t receive a survey invite from Sirota.\n \nThe survey will be open through Friday, May 13. Visit the AES Insight page for more details, or contact HR Connect if you have additional questions. \n \nDo take part in the Pulse and let’s work together to keep Intuit awesome!\n \nVijay\n \n \n "
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1001/documents/100003"
+                }
+            ]
+        }
+        ,
+        {
+            "id":"100005",
+            "date":"06/22/2016",
+            "subject":"Architecture Decision: Hosting for inventory pricing engine: inside the monolith or a standalone service?",
+            "content":"The following architect decision was made by Mark Basler on 1-July-2015 and is recorded in the SBG Architecture JIRA: https://jira.intuit.com/browse/SBGA-815\n \n \nContext: The Inventory team is developing new Pricing Engine functionality that will achieve the long sought after QBDesktop Pro Parity. The business requirement is to have this released before FY17 Peak season. The platform team wants to implement the feature as close to target state as possible, limiting throw-away work. There is agreement that this functionality can be a decoupled component and deployed as a separately deployable service, but we need to address the Time-to-Market requirements.\n \nDecision: The Pricing Engine will be hosted in its own Git repository and be separately buildable & testable with V4 model & services, with a separate persistence footprint. The QBO-Accounting Monolith will be the initial deployment vehicle for the Pricing Engine. Once the CI/CD infrastructure is GA, the Pricing Engine team will adopt it and deploy the functionality as a separately deployable service.\n \n \nRationale: Sequencing the release of the Price Engine this way is appropriate for the following reasons:\n·         We can get to market and have QBDesktop Pro parity before FY17 peak (~ FY17Q1-Q2)\n·         We give the central teams time to mature the CI/CD framework, so we can deploy to IHP or AWS, limiting rework\n·         We give SBG-Core/Voyager teams time to harvest best practices & reusable components for proliferation throughout SBG\n·         We save roughly 20 developer weeks for not implementing 1-off CI/CD framework and transferring to the new CI/CD framework once it is GA, which more than pays for the re-implementation of the ORM classes.\n·         We don’t create 1-offs to address: HA/DR, Alerts, Monitoring, Authentication, Permissions, Splunk/Logging, Sonar/Jenkins, Caching, VPD/DB setup, Configuration & deployment\n·         We also save the migration costs to the CI/CD framework once it is GA\n·         PD Management has committed that the project is not done or resources reallocated until the pricing engine is a standalone separately deployable service deliver sometime in Fy17Q3\n \n \n \n \n \n \nThanks\nSiddharth\n \nThe SBG architecture decision process is intended to empower teams to make quick decisions, at the right level, with transparency, and communicate them for visibility. The process (including how to revisit a decision) and the log of decisions are documented at https://wiki.intuit.com/display/iea/SBG+Architecture+Decisions.\n \nThe SBG architecture and technology review process and log of reviews are documented at https://wiki.intuit.com/display/iea/SBG+Architecture+and+Technology+Design+Reviews.\n \n "
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1001/documents/100003"
+                }
+            ]
+        }
+        ,
+        {
+            "id":"100006",
+            "date":"05/12/2016",
+            "subject":"[PROD] Change Primary Contact API Exception",
+            "content":"Here is the note from Dibyendu.\nIssue Summary : CAMPS were getting API gateway Timeout Errors. The Issue was EBPi Layer was responding in more than 10 mins. When debugged the EBPi Layer it seems a EBPi Call to AIADigicom Service was taking 10 mins. When checked on the AIA OTC PIP on Digicom it seemed that AIA ESB Layer was too slow. While trying to restart the OTC PIP it was discovered the ORABPEL and ORAESB SOA DB Passwords in OTC had Expired. Called the DBA Team to fix then and then Restarted OTC PIP.\n\nUsually I have seen EBPI team is very much aware of password expiry dates and takes care of it timely. Not sure what went wrong this time.\n \nLooks like 26 distinct user has been affected. Click Here for splunk report\n \nGood job Sneha. By the time I joined the service-now, all the right folks are already on call and we figured out the issue once Dibyendu dived into the splunk log.\n \nRegards,\nSamar"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1001/documents/100003"
+                }
+            ]
+        }
+
+        ],
+        "links" :[
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1001/documents/"
+                }
+            ]
+    },
+    {"id":"2001","tagname":"Personal",
+    "documents":[
+		
+        {
+            "id":"200001",
+            "date":"07/08/2015",
+            "subject":"Your FY15 focal documents",
+            "content":"Hi Reetesh\n\nPlease see attached your focal documents. If you have any questions/ comments, please do let me know.\n\nThanks!\nTarun\nTarun Dhawan | QBDT Ecosystem | Office: (+91) 80-4176 9584 | Cell: (+91) 77609 97309\nIntuit| RMZ Ecospace, Bangalore, India 560103"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/2001/documents/200001"
+                }
+            ]
+        },
+        {
+            "id":"200002",
+            "date":"07/23/2015",
+            "subject":"Dividend Equivalent Payments",
+            "content":"Hello,\n \nIn connection with your RSUs which vested recently, you will receive payment for dividend equivalent rights in your next paycheck.  The paystub will vary according to country but typically the paystub will identify this payment as either: “Equivalent rights”, “Dividend”, or “Dividend Equivalent rights”.\n \nDividend equivalent rights entitle holders of RSUs granted July 25, 2012 and after to a cash payment when the RSUs vest. The dividend equivalent payment is equal to the dividends that were paid to shareholders between the RSU grant date and the vest date. If you continue to hold the net RSU shares after they vest, you will be entitled to receive dividends paid on those shares going forward as do all other shareholders. \n \nSample calculation: \n \nExample:  if the grant date for your RSUs was July 24, 2013 and 100 RSUs vested on July 1, 2015, the dividend equivalent payment in USD = $151.00 USD. (dividends paid between July 24, 2013 and July 1, 2015 were $1.51 per share).    \n \nConversion rates =\n \nAustralia:          1.3079\nCanada:            1.2591\nFrance:             .9047\nGermany:          .9047\nU.K.:                 .6403\nIndia:                63.55\nSingapore:        1.3531\n                       \n \n \nDividend equivalent rights are not the same as dividends. Employees who own shares – from a prior ESPP purchase or RSUs which have already vested - will continue to receive dividends on those shares whenever dividends are paid to all shareholders. Dividends are generally paid to shareholders quarterly at the discretion of the company and may fluctuate based on company performance and/or current financing needs.\n \nFor reference, Intuit’s dividend history is posted at:\nhttp://www.nasdaq.com/symbol/intu/dividend-history\n \nIntuit Stock Administration\nThis email may contain confidential and privileged material for the sole use of the intended recipient. Any review or distribution by others is strictly prohibited. If you are not the intended recipient, please contact the sender and delete all copies.\n \nImportant Notice to Recipients:\n \nThe sender of this e-mail is an employee of Morgan Stanley Smith Barney LLC (\"Morgan Stanley\").  If you have received this communication in error, please destroy all electronic and paper copies and notify the sender immediately. Erroneous transmission is not intended to waive confidentiality or privilege.  Morgan Stanley reserves the right, to the extent permitted under applicable law, to monitor electronic communications. This message is subject to terms available at the following link: http://www.morganstanley.com/disclaimers/mssbemail.html.  If you cannot access this link, please notify us by reply message and we will send the contents to you.  By messaging with Morgan Stanley you consent to the foregoing.\n "
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/2001/documents/200001"
+                }
+            ]
+        },
+        {
+            "id":"200003",
+            "date":"01/19/2016",
+            "subject":"Your Intuit Spotlight INR Award",
+            "content":"Be Passionate \n\nDear Reetesh Agrawal, \n\nYou worked on multiple initiatives in parallel and collaborated well across multiple stakeholders, helped the team across ecosystem to deliver some of the critical initiatives with great quality: a. QBDT ROA Work – You worked with multiple partners including Webreg, QBN, EWS. Few embedded browser compatibility issues for QBN team were solved with your key contribution. b. QBDT Pre-MFA APP - You worked on standalone Pre-MFA Web Application APP and completed basic version of app in a quick tim . c. CAMPS Work: Thanks for your effort on the big bet like Re-subscribe feature, CANCEL subscription, Build/Deployment issues, mentoring/onboarding the new members quickly to the system. Great job !!! SBG Offerings Leadership team\n\nFrom Saurabh Saxena"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/2001/documents/200001"
+                }
+            ]
+        },
+        {
+			"id":"200004",
+            "date":"04/05/2015",
+            "subject":"RE: CAMPS Performance improvement changes",
+			"content":"The team went through a lot of analysis, learning from other teams and then formulating our own approach that reduces performance overhead by about 40-50% compared to V1 version!\n \nGreat work team and thanks Reetesh for your leadership!\n\nRajat\n "
+            ,
+    		"links": [
+     			{
+     				"rel": "self",
+     				"href": "/v1/api/tags/2001/documents/200001"
+    			}
+   			]
+		},
+		{
+			"id":"200005",
+            "date":"11/21/2013",
+            "subject":"FW: Replacing a Persistent Developer",
+			"content":"FYI\n \nFrom: MR, Anand \nSent: Thursday, November 21, 2013 3:52 PM\nTo: Bharat Ramchandani (bharat_ramchandani@persistent.co.in)\nCc: Iyer, Ravi\nSubject: Replacing a Persistent Developer\n \nHello Bharat,\n \nDuring my conversations with the Team, I have understood that Madhavi is doing very Well, but\nSwati has not been able to come upto speed and has been lagging behind a lot in tasks. All my Dev leads feel a need for replacing Swati with another Developer.\n \nCan you please do the needful? We can talk about it before you share other profiles to us.\n \nRavi: Please let me know if you have any concerns here?\n \nThanks and Regards\nAnand",
+    		"links": [
+     			{
+     				"rel": "self",
+     				"href": "/v1/api/tags/2001/documents/200002"
+    			}
+   			]
+		}
+
+    ],
+        "links" :[
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1002/documents/"
+                }
+            ]
+    },
+  {"id":"3001","tagname":"Official",
+    "documents":[
+		{
+            "id":"300001",
+            "date":"02/07/2016",
+            "subject":"Global PD Director Update",
+            "content":"Hello Team,\n \nI am very pleased to announce that Abdenour (Nour) Bezzouh will assume the leadership of the Global Offerings PD Team, and is promoted to Director of Engineering (effective immediately). Global expansion is a critical part of SBG strategy, and Nour will lead the in-country PD teams focusing on the last mile needs to solve for SBG in our priority global markets. The Global Offerings PD teams located in UK, France, Brazil, Canada, Australia, and India will be shifting to report into the newly formed Global PD Team under Nour.\n \nIn his eighteen years at Intuit, Nour has held numerous management, architect and developer roles. He has a truly global background, having worked in various Intuit locations (Mountain View, Paris and London), and a proven track record of successfully leading distributed teams and driving strategic integrations. Most recently, Nour has led the global offering teams for Europe where he was responsible for last-mile solutions for our accountant and small businesses in UK and France.  \n \nNour will report directly to me and continue to be based in London, with regular travel to our global strategic markets.  \n \nPlease join me in congratulating Nour on his new role and promotion.\n \nThanks,\nDave"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/3001/documents/300001"
+                }
+            ]
+        },
+        {
+            "id":"300002",
+            "date":"06/30/2016",
+            "subject":"EcoSystem Team Announcement",
+            "content":"\nHello Team,\n\nPlease join me in welcoming Donovan Makund to his new role as the manager for the Offerings EcoSystem VOC teams.  \n\nThe newly formed EcoSystem Group has a focus on cross-domain technology and priorities,  and as a part of that charter we have formed 2 VOC teams and focused them initially on Payments and FIDQ.   Kathy and Megan from Care will be driving the team backlog,  and during quarterly planning we will look at customer pain across the Offerings and whether it makes sense to shift the team’s focus.\n\nThis is a new model for VOC.  The feature working teams (PM, Dev, QE, XD) each continue to own their own bugs and their own VOC,  but we have now created a SWAT team that may be brought in to focus on particular hot spots with the highest customer impact.  If the feature working teams are the local police and fire department,  these central VOC teams represent the national guard who get deployed in a 'state of emergency'.\n\nDonovan will initially report to me in his new role, and continue to lead the IPD team while a new IPD leader is found.  \n\nWelcome Donovan.\n\nthanks,\ndave\n"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/3001/documents/300002"
+                }
+            ]
+        },
+        {
+            "id":"300003",
+            "date":"06/30/2016",
+            "subject":"SBG QBO PD Extended Staff",
+            "content":"Agendas to be emailed via Dave, one day prior.\n\nStanding Meeting Topics:\n* Round Table with Quick Briefings (A few minutes each, longer if there is something needing more discussion)\n* Progress or notable activities since our last meeting? Planned until our next meeting?\n* Decisions or pivots should we be aware of? Kudos? Struggles? Suggestions for Improvement?\n* Action Needed: Where can you use help? Items needing collaboration or a decision? Barriers we could help remove?\n* In your briefing, think top 2-3 items your team has been working on that others in the room really need to know. You don't need to justify your existence.\n"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/3001/documents/300002"
+                }
+            ]
+        },
+        {
+            "id":"300004",
+            "date":"06/24/2016",
+            "subject":"IDC contributors towards strategic capabilities ...",
+            "content":"Team,\n \nAs we learned this year in PLC, we have identified. several key “strategic capabilities” and “enabling capabilities” delivered through services, technologies, and data that will accelerate our delivery of customer benefits.  In last 2 days, Michele Iacovone and Eileen Fagan did a workshop to share more details about these capabilities and to get the next-level to start thinking in terms of customer benefits.\n \nI am happy to announce that from our org,  Mohan and Deva are leading 2 of them as IDC contributors. \n \nMohan -  Security & Anti-fraud - https://wiki.intuit.com/pages/viewpage.action?pageId=377552119\nDeva – Right for me customer experience - https://wiki.intuit.com/display/iea/Right-for-Me+Customer+Experiences\n \nPlease do spend some time to go over it. They will share more details around these capabilities  in our upcoming Monthly Engineering meet.\n \nThanks,\nSaurabh\n \n-----------------------\nGo to devinternal.intuit.com -> strategic capabilities -> you will see the set of 13 strategic capabilities\n \nClick on any of them ->  Learn More -> This will take you to the Wiki having all the details about strategic capabilities.\n\n \nThanks,\nSaurabh Saxena | Director of Engineering: SBG Offerings PD | +91-974-000-1402 (c)\n \n \n \n \n "
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/3001/documents/300002"
+                }
+            ]
+        },
+        {
+            "id":"300005",
+            "date":"06/10/2016",
+            "subject":"Offerings Tech Lead DLs",
+            "content":"Team,\n \nFYI.  Here are few DLs that you can use (especially during setting up broader technical sessions).  Note that all of these are Dev+QE combined.\n \na.       SBG Offerings IDC Staff Engineers -  Offerings (QBDT+QBO) Staff Engineers.\nb.      SBG Offerings IDC Architects and PEs  -  Offerings (QBDT+QBO) Arch and PE \nc.       SBG Offerings IDC Tech Leaders - #a and #b combined.\n \n \nThanks,\nSaurabh Saxena | Director of Engineering: SBG Offerings PD | +91-974-000-1402 (c)\n "
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/3001/documents/300002"
+                }
+            ]
+        }
+
+    ],
+        "links" :[
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1003/documents/"
+                }
+            ]
+    },
+    {"id":"4001","tagname":"Bank",
+    "documents":[
+		{
+			"id":"400001",
+            "date":"02/07/2016",
+            "subject":"Morgan Stanley (StockPlanConnect) eDelivery Notification",
+			"content":"Dear Stock Plan Participant:\n\nYour Morgan Stanley Global Stock Plan Services Account Document(s) have been electronically delivered to StockPlanConnect.com for online viewing as indicated below:\nCOMPANY\nNAME\tSTATEMENT & \nNOTICES\tCONFIRMATIONS & \nPROSPECTUSES\tTAX FORMS\tOTHER\nIntuit Inc.\t\tX\t\t\nIf you want to view or modify your eDelivery preferences for your employee stock plan, please click on the link below. Note that prospectuses are not provided online or by U.S. mail.\n\nhttps://www.stockplanconnect.com"
+            ,
+    		"links": [
+     			{
+     				"rel": "self",
+     				"href": "/v1/api/tags/4001/documents/400001"
+    			}
+   			]
+		},
+		{
+			"id":"400002",
+            "date":"06/18/2016",
+            "subject":"Your Credit Card Statement for the period 18-MAY-2016 to 17-JUN-2016",
+			"content":"Dear Mr. REETESH AGRAWAL,\n\nThank you for doing your bit for the environment by choosing eStatement. To view your monthly statement, please click on the attachment below. \n\nBest Regards, \nICICI Bank Credit Cards.\n\nYou need Adobe Acrobat Reader version 6.0 or above to view the statement. If you do not have it, please visit Adobe website to download for free."
+            ,
+    		"links": [
+     			{
+     				"rel": "self",
+     				"href": "/v1/api/tags/4001/documents/400002"
+    			}
+   			]
+		},
+        {
+            "id":"400003",
+            "date":"06/01/2016",
+            "subject":"Payment due date reminder",
+            "content":"Dear Customer,\tJul 01, 2016\n \t \nPayment on your ICICI Bank Credit Card account no 4076 XXXX XXXX 3005 is due on 06/07/2016. You may choose to pay the total bill amount of Rs. 27798.86 or the minimum amount of Rs. 1390.\n\nPlease ignore the communication in case if you have already made the payment through any other mode. \n\nLooking forward to your co-operation in helping us serve you better. \n\nSincerely,\t\nICICI Bank Credit Cards Team."
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/4001/documents/400002"
+                }
+            ]
+        },
+        {
+            "id":"400004",
+            "date":"03/15/2016",
+            "subject":"Fwd: Housing Loan",
+            "content":"Sir,\n\nAs requested I attach herewith the details and procedure of availing Housing equity Loan at SBI. Follow the check list of NRI. In case of any further query please do mail me I will revert back to you at the earliest.\n\nRegards,\nChandroo\n09845044737\n"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/4001/documents/400002"
+                }
+            ]
+        },
+        {
+            "id":"400005",
+            "date":"06/10/2016",
+            "subject":"Communication from SBI Chairman",
+            "content":"Dear Valued Customer,\n\nThanks to your continued patronage, the Bank has once again turned in a strong performance for the year ended March 2015 with a 23% growth in profits over the previous year. We take this opportunity to re-dedicate ourselves towards continued excellence in rendering the best in class services and bringing to you a large array of digital banking products to make your banking experience all the more convenient and enjoyable. It gives us immense satisfaction that our Digital Channels are being used extensively by our customers and 68% of our banking transactions are now being done on these channels.\nI shall be regularly updating you on the new initiatives taken by the Bank to provide you a delightful banking experience.\n\nBest wishes,\n\nArundhati Bhattacharya\nChairman"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/4001/documents/400002"
+                }
+            ]
+        }
+
+    ],
+        "links" :[
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1004/documents/"
+                }
+            ]
+    },
+    {"id":"5001","tagname":"Alerts",
+    "documents":[
+		{
+			"id":"500001",
+            "date":"2/07/2016",
+            "subject":"Splunk Alert: [CAMPS-PROD] Daily Status Report",
+			"content":"The alert condition for '[CAMPS-PROD] Daily Status Report' was triggered.\nAlert:\t[CAMPS-PROD] Daily Status Report\nView results in Splunk\nAPI'\tNoOfCalls\nLoginCount\n5441\nAccountUpdates\n179\nUpdateAddress\n597\nUpdateAddressSuccess\n598\nUpdateAddressFailure\n1\nAddAddress\n197\nAddAddressSuccess\n16\nAddAddressFailure\n0\nUpdateBillingProfile\n884\nCancelSubscriptionFailure\n0\nCancelSubscriptionSuccess\n15\nReactivate_Subscription_Success\n3\nReactivate_Subscription_Failure\n0\nIf you believe you've received this email in error, please see your Splunk administrator.\n\nsplunk > the engine for machine data"
+            ,
+    		"links": [
+     			{
+     				"rel": "self",
+     				"href": "/v1/api/tags/5001/documents/500001"
+    			}
+   			]
+		},
+		{
+			"id":"500002",
+            "date":"6/22/2016",
+            "subject":"Splunk Alert: Payment History Details API Service Status",
+			"content":"The scheduled report 'Payment History Details API Service Status' has run.\nReport:\tPayment History Details API Service Status\nreturnMessage\tcount\nsuccess\n186\nYour search returned no results.  Try searching by different criteria or broadening your search by eliminating some fields from your query\n200\nIf you believe you've received this email in error, please see your Splunk administrator.\n\nsplunk > the engine for machine data"
+            ,
+    		"links": [
+     			{
+     				"rel": "self",
+     				"href": "/v1/api/tags/5001/documents/500002"
+    			}
+   			]
+		},
+        {
+            "id":"500003",
+            "date":"5/07/2016",
+            "subject":"Splunk Alert: [PROD] Change Primary Address Report",
+            "content":"The scheduled report '[PROD] Change Primary Address Report' has run.\nReport:\t[PROD] Change Primary Address Report\nView results in Splunk\nAction\tCount\nPrimary_Address_Change_Success\n194\nPrimary_Address_Change_Failure\n0\nAdd_New_Address_Success\n122\nAdd_New_Address_Failure\n0\nIf you believe you've received this email in error, please see your Splunk administrator.\n\nsplunk > the engine for machine data"
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/5001/documents/500001"
+                }
+            ]
+        },{
+            "id":"500004",
+            "date":"9/07/2016",
+            "subject":"New Relic Alert open: 'Update Billing Profile' Error rate > 5.0% on 'Update Billing Profile'",
+            "content":"\n\tin partnership with Intuit SBG\nAlert open: 'Update Billing Profile' Error rate > 5.0% on 'Update Billing Profile'\nPolicy: CAMPS prod key_transaction alert policy \n\nAlert details\n\n\nUpdate Contact Details\nProblem (1 during this alert)\tStart time\tDuration\tEnd time\n'Update Contact Details' Error rate > 5.0%\tToday, 16:17\t6 minutes\tToday, 16:23\nUpdate Billing Profile\nProblem (1 during this alert)\tStart time\tDuration\tEnd time\n'Update Billing Profile' Error rate > 5.0%\tToday, 16:27\t4 minutes\t\n\nView policy settings for CAMPS prod key_transaction alert policy. \n\nFor more information on alerts in New Relic please refer to the documentation on our support site.\nLog in to New Relic       Find us online:   Twitter   Facebook\n\nWould you like to unsubscribe or update your email preferences?\nNew Relic Inc. — 188 Spear Street, Suite 1200, San Francisco, CA 94105\nCopyright © 2008–2016 New Relic, Inc. All rights reserved. All trademarks, trade names,\nservice marks and logos referenced herein belong to their respective companies."
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/5001/documents/500001"
+                }
+            ]
+        },{
+            "id":"500005",
+            "date":"9/07/2016",
+            "subject":"New Relic Alert open: 'Update Contact Details' Error rate > 5.0% on 'Update Contact Details'",
+            "content":"Alert open: 'Update Contact Details' Error rate > 5.0% on 'Update Contact Details'\nPolicy: CAMPS prod key_transaction alert policy \n\nAlert details\n\n\nUpdate Contact Details\nProblem (1 during this alert)\tStart time\tDuration\tEnd time\n'Update Contact Details' Error rate > 5.0%\tToday, 15:23\t4 minutes\t\n\nView policy settings for CAMPS prod key_transaction alert policy. \n\nFor more information on alerts in New Relic please refer to the documentation on our support site."
+            ,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/5001/documents/500001"
+                }
+            ]
+        }
+
+    ],
+        "links" :[
+                {
+                    "rel": "self",
+                    "href": "/v1/api/tags/1005/documents/"
+                }
+            ]
+    }
+
+
+]

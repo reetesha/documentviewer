@@ -1,0 +1,10 @@
+<div class="treeview">
+     <% if (tags.length>0) { 
+       _(tags).each(function(tag) { %>
+       	<div class="item"  id="<%= tag.id%>" ><%= tag.tagname%> </div>
+       <%});
+       } 
+       else {%>
+            <tr> <td style="width:100%;">No tag found</td></tr>
+       <% }%>
+  </div>

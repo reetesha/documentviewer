@@ -1,0 +1,120 @@
+html,
+body {
+  /*UPDATE*/
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  overflow: hidden
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit
+}
+
+
+/* CSS used here will be applied after bootstrap.css */
+.modal-body {
+    max-height: calc(100vh - 212px);
+    overflow-y: auto;
+}
+
+.left-panel {
+  width: 20%;
+  height: 100%;
+  float:left;  
+  padding: 4px;
+  border: 1px solid rgba(0, 0, 0, .2);
+  background-color:#fff
+
+}
+
+.treeview {
+  max-width: 100%;
+  text-align: right;
+}
+
+.item {
+  /*height: 23px; /*ADD*/
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 5px 0; /*ADD*/
+  font-size: 16px;
+  text-align: left;
+  background:#f1f1f1;
+  border: 1em solid transparent; 
+}
+
+.item:hover { /*ADD*/
+  /*height: 24px;
+  text-align: left;
+  border: 1px outset #d0cbcb;
+  cursor: pointer;*/
+
+  
+  text-align: left;
+  /*border: 1px outset #f1f1f1;*/
+  background:#d0d0d0;
+  cursor: pointer;
+
+
+}
+.item:focus { /*ADD*/
+  /*background: rgba(0, 0, 255, 0.1)*/
+  }
+
+
+.right-panel
+{        
+    width:80%;
+    height:100%;
+    float:left;
+    padding: 4px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background-color:#fff
+
+}​
+
+.top-panel
+{        
+    width:50%;
+    height:10%;
+    float:left;
+    padding: 4px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background:#dacfcf;
+
+}​
+
+
+th, tr {
+  margin: 10px 0; /*ADD*/
+  text-align: left;
+  background:#f1f1f1;
+  border: 1em solid transparent; 
+}
+.tablerow:hover { /*ADD*/
+  height: 24px;
+  text-align: left;
+  border: 1px outset #f1f1f1;
+  background:#adadad;
+  cursor: pointer;
+
+}
+
+th{
+  background: #f1f1f1;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: 500;
+  color: inherit;
+  margin: 0;
+}
+tr:nth-child(even)
+{
+  background: #f1f0f0;
+}
+tr:nth-child(odd) {
+  background: #ffffff;
+}
