@@ -14,16 +14,19 @@ Step 4: Open browser and hit URL :http://localhost:7000/
 #Assumption :
 This app is build on following assumption:
 
-1) I have given the name of this app as DocumentViewer and currentl supported document type is email. However this app can be extended to any type of documents.
+1) I have given the name of this app as DocumentViewer and currently supported document type is email. However this app can be extended to any type of documents.
+
 2) By default : First Tagged type will be selected when app is loaded.
-3) The lapyt of this app is diveded into left & right  panel, so taht it will look like in a folder structure and similar to email client.
+
+3) The layout of this app is diveded into left & right  panel, so taht it will look like in a folder structure and similar to email client.
+
 4) I have provided the bookmark URL to directly go to tag and document using following requirement:
 	a) Bookmark to show all list of tags
 	a) Bookmark to show particular tag based on URL tagid
 	c) Bookmark to show all documents of particular tagid
 	e) Bookmark to show particular document by documentid
 
-5) Document content will be shown in modal window(Popup)
+5) Document content wilpal be shown in modal window(Popup)
 
 
 #Enhancement :
@@ -32,7 +35,7 @@ This app is build on following assumption:
 3) Monitoring and instrutmentaion : Logging from client and server api using logging framework and RUM
 
 Client(UI part) :
-1) widgetization so that it can be used by other application.
+1) Widgetization so that it can be used by other application.
 2) SPA using Anugular and React
 
 Server(Rest API):
