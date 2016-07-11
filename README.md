@@ -74,6 +74,8 @@ There are 3 below GET HTTP API calls created to build the apii :
 2- Get all documents by tag name  http://localhost:7000/v1/api/tags/{tagid}/documents
 3- get documents by tag name and document:id http://localhost:7000/v1/api/tags/{id}/documents/{documentid}
 
+#Browser Support
+Currently this app is supported in Chrome, Firefox & Safari for Mac and Windows
 
 #Problem Statement
 The objective of this project is to build a web based single-page-application user-interface to display documents organized by tags in folder like structure. Assume document is an email message for purpose of building the demo.
