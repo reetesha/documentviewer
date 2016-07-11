@@ -18,7 +18,7 @@ This app is build on following assumption:
 
 2) By default : First Tagged type will be selected when app is loaded.
 
-3) The layout of this app is diveded into left & right  panel, so taht it will look like in a folder structure and similar to email client.
+3) The layout of this app is diveded into left & right  panel, so that it will look like in a folder structure and similar to email client.
 
 4) I have provided the bookmark URL to directly go to tag and document using following requirement:
 	a) Bookmark to show all list of tags
