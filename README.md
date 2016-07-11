@@ -2,7 +2,7 @@
 DocumentViewer App
 
 #Steps to run app:
-Step 1: git clone h
+Step 1: git clone https://github.com/reetesha/documentviewer.git
 
 Step 2: npm install
 
